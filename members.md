@@ -28,5 +28,13 @@ Format is as given below:
    and any  other details you wish to add. <br />
    
    -------------------------------------------------
-   
+ 3. Name: Ugwa Kingsley Chikereuba <br />
+   Email: ugwakings@gmail.com <br />
+   Learning Track: Data Science <br />
+   Skills: MATLAB Bigginner <br />
+   Twitter: @ugwa_kingsley <br />
+   Github: @ugwakings <br />
+
+-----------------------------------------------
+  
    
